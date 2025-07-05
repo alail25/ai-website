@@ -11,8 +11,3 @@ Ini adalah contoh website statis dengan fitur chatbot AI sederhana. Website ini 
 1. Buka `index.html` di browser
 2. Klik "Coba Chatbot AI" untuk mengakses fitur AI
 
-## Deploy ke GitHub Pages
-1. Upload ke repo GitHub
-2. Aktifkan GitHub Pages dari tab Settings > Pages
-3. Pilih branch `main`, folder `/ (root)`
-4. Akses dari `https://username.github.io/ai-website/`
